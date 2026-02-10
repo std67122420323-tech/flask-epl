@@ -1,4 +1,4 @@
-# Week09
-# Chapter06
+# week09
+# chapter06
 ## Flask & SQLAlchemy
-*บทนี้เราจะเรียนรู้การใช่งาน flask ร่วมกับ sqlalchemy*
+*บทนี้เราเรียนรู้การใช้งาน flask ร่วมกับ sqlalchemy*
